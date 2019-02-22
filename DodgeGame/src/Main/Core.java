@@ -37,7 +37,7 @@ public class Core {
 
     public void run(){
         //// creating window
-        JFrame frame = new JFrame("Epileptic seizure inducing thing");
+        JFrame frame = new JFrame("Dodge Game");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(false);
         frame.setSize( 1024, 768 );
